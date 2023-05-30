@@ -1,0 +1,4 @@
+OpenAI_API = ''
+YandexAPI = 't1.9euelZqdj4uWmIyeyJjJicjGkZKcle3rnpWampPNlZaMz4zNiZaNi8yRnZHl8_crLSpc-e9lMAt3_d3z92tbJ1z572UwC3f9.WRtUWibWR_N6d1dYeiKom-ieKIQAOTXRVrINDx2uWEaWMtjj1jH6Tq9lqoFHGoq0wAwbD26zqKL4mo1ckTjBDg'
+YaFolder_id = 'b1g5ufvacu3r1gp90mq3'
+telegramAPI_TOKEN = '5444922514:AAFHjv7EP5SB61BInrHRzN0Xni6Igf1TEhU'
